@@ -1,0 +1,6 @@
+{
+  "name": "Tryvanta Home — Intelligent Automation",
+  "description": "Seamless Automation. Unfathomable Comfort. Tryvanta integrates AI automation, smart water & energy management, Layla intelligent companion, and precision smart hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
